@@ -92,10 +92,18 @@ RCB (Batting depth)
 
 ## Dashboard Preview
 
-![IPL Auction Dashboard](Dashboard/IPL_Auction_Dashboard.png)
+## Dashboard Preview
+
+### Dashboard – Part 1
+![IPL Auction Dashboard](Dashboard/Dashboard_1.png)
+
+### Dashboard – Part 2
+![IPL Auction Dashboard](Dashboard/Dashboard_2.png)
+
+### Team-wise Recommendations
+![Team-wise Recommendations](Dashboard/Recommendation.png)
 
 ## Project Structure
-
 
 IPL-Auction-Analysis/
 ├── README.md
