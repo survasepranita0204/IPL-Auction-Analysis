@@ -18,7 +18,7 @@ The project goes beyond basic reporting by converting auction data into KPIs, in
 
 ## Tools Used
 
-- Microsoft Excel
+- **Microsoft Excel**
 - Excel Tables
 - Data Cleaning
 - XLOOKUP
