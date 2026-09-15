@@ -46,7 +46,7 @@ The workbook contains IPL auction/player data with fields including:
 - IPL Matches
 - Price Tier
 
-The working dataset contains 577 player records, including 182 sold players and 395 unsold/unallocated records in the auction data.
+The working dataset contains **577 player records**, including **182 sold players** and **395 unsold/unallocated** records in the auction data.
 
 ## Data Preparation
 
@@ -54,12 +54,12 @@ The data was organized into separate analysis tables for auction, player, and te
 
 ## Key KPIs
 
-- Total Players: 577
-- Sold Players: 182
-- Total Auction Spend: ₹639.15 Cr
-- Average Sold Price: ₹3.51 Cr
-- Highest Individual Bid: ₹27 Cr
-- Highest-Spending Team: PBKS – ₹110.15 Cr
+- **Total Players**: 577
+- **Sold Players:** 182
+- **Total Auction Spend**: ₹639.15 Cr
+- **Average Sold Price:** ₹3.51 Cr
+- **Highest Individual Bid:** ₹27 Cr
+- **Highest-Spending Team:** PBKS – ₹110.15 Cr
 
 ## Key Insights
 
@@ -72,19 +72,19 @@ The data was organized into separate analysis tables for auction, player, and te
 
 The recommendations are based on the team's purchased role mix, spending pattern, and player opportunities visible in the dataset.
 
-PBKS (Budget concentration)
+**PBKS (Budget concentration)**
 🔹 Highest spending: ₹110.15 Cr
 🔹 Recommendation: Control premium bidding and focus on value-for-money players.
 
-LSG  (Highest individual bid)
+**LSG  (Highest individual bid)**
 🔹 Rishabh Pant: ₹27 Cr
 🔹 Recommendation: Evaluate high-cost purchases against player contribution and alternatives.
 
-RR  (Role balance)
+**RR  (Role balance)**
 🔹 Only 2 all-rounders & 3 batters purchased
 🔹 Recommendation: Consider experienced options such as Shardul Thakur (₹2 Cr) or Mayank Agarwal (₹1 Cr).
 
-RCB (Batting depth)
+**RCB (Batting depth)**
 🔹 Only 4 batters purchased
 🔹 Recommendation: Consider a lower-cost batting option such as Prithvi Shaw – ₹0.75 Cr.
 
