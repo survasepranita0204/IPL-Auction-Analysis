@@ -92,8 +92,6 @@ RCB (Batting depth)
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ### Dashboard – Part 1
 ![IPL Auction Dashboard](Dashboard/Dashboard_1.png)
 
